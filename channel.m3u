@@ -1,0 +1,341 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Nasional",NET HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:0 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="News",BERITA SATU HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+
+#EXTINF:0 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w245350781_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Nasional",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w359295960_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Nasional", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="News",METRO TV
+https://stream-01.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS1wVN139c5Xpakn8NbMIKaA)/dm/3/x75p70w/s/live-3.m3u8
+
+#EXTINF:-1 #EXTINF:0 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Nasional",ANTV
+http://210.210.155.35/session/7fd33922-46b1-11e9-b863-c81f66f89318/qwr9ew/s/s102/01.m3u8
+
+#EXTINF:0 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" group-title="News",TVRI HD
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+
+
+***** TV NASIONAL*****
+
+#EXTINF:0 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Nasional", TRANS 7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Nasional",TRANS TV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Nasional",ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id="GTV.id" tvg-name="Global TV" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="Nasional",Global TV
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 group-title="Nasional",GTV
+http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="Nasional",MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="Nasional",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="Nasional",RTV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="Nasional",SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Nasional",Indosiar
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 group-title="Nasional", NET TV
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 group-title="Lokal", MyTV
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+
+***** NEWS CHANNEL *****
+
+#EXTINF:0 group-title="News",TVRI
+http://rr2.dens.tv/s/s11/index.m3u8
+
+#EXTINF:0 group-title="News",BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
+#EXTINF:0  tvg-id="TVOne.id" tvg-name="TV ONE" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="News", TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 group-title="News", BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:0 group-title="News",KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 group-title="News",INEWS
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 group-title="News",INEWS TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 group-title="SPORT",TVRI SPORTS HD
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+
+**** RELIGI *****
+#EXTINF:0 tvg-id="" tvg-name="Akhyar TV" tvg-logo="http://www.akhyar.tv/wp-content/uploads/2017/07/Akhyartvbaru20175.png" group-title="Religi",Akhyar TV
+http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
+
+#EXTINF:0 group-title="Religi", Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Asjawa TV" tvg-logo="" group-title="Religi",ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="" group-title="Religi",Rodja TV
+http://rr2.dens.tv/s/s14/index.m3u8
+
+#EXTINF:0 group-title="Religi",TV9
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+
+***** TV DAERAH *****
+#EXTINF:0 tvg-id="" tvg-name="Bali TV" tvg-logo="" group-title="Lokal",BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id="" tvg-name="JTV" tvg-logo="http://webtvonlive.com/wp-content/uploads/JTV-webtvonlive-com.jpg" group-title="Lokal",JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 group-title="Lokal", JAKTV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 group-title="Lokal", DAAI TV
+http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
+
+#EXTINF:-1 group-title="Lokal",DAAI TV
+http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
+
+#EXTINF:0 group-title="Lokal", ELSHINTA TV
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:0 group-title="Lokal", BBS TV
+http://ss.bbstv.co.id:1935/bbstv/live1/chunklist_w1797668003.m3u8
+
+
+***** PREMIUM *****
+
+
+**** SPORTS ****
+
+#EXTINF:-1 group-title="SPORT",SuperSoccer TV
+http://210.210.155.35/uq2663/h/h20/index.m3u8
+
+#EXTINF:0 group-title="SPORT", MUTV
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/04.m3u8
+
+#EXTINF:0 group-title="SPORT", Chelsea TV
+https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/04.m3u8
+
+#EXTINF:0 group-title="SPORT", Real Madrid   TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 group-title="SPORT", Olympic Chanel 1   TV
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?
+#EXTINF:0 group-title="SPORT", Olympic Chanel 2  TV
+https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8?
+#EXTINF:0 group-title="SPORT", Olympic Chanel 3   TV
+https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8?
+#EXTINF:0 group-title="SPORT", Olympic Chanel 4   TV
+https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8?
+#EXTINF:0 group-title="SPORT", Olympic Chanel 5   TV
+https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8?
+#EXTINF:0 group-title="SPORT", Olympic Chanel 6   TV
+https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8?
+#EXTINF:0 group-title="SPORT", Olympic Chanel 7   TV
+https://ott-live.olympicchannel.com/out/u/OC7_1.m3u8?
+#EXTINF:0 group-title="SPORT", Olympic Chanel 8   TV
+https://ott-live.olympicchannel.com/out/u/OC8_1.m3u8?
+#EXTINF:0 group-title="SPORT", Olympic Chanel 9   TV
+https://ott-live.olympicchannel.com/out/u/OC9_1.m3u8?
+#EXTINF:0 group-title="SPORT", Olympic Chanel 10   TV
+https://ott-live.olympicchannel.com/out/u/OC10_1.m3u8?
+#EXTINF:0 group-title="SPORT", Olympic Chanel 11   TV
+https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8?
+#EXTINF:0 group-title="SPORT", Olympic Chanel 12   TV
+https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8?
+
+
+#EXTINF:-1 #EXTINF:0 group-title="SPORT",Fight sport
+http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8
+#EXTINF:-1, #EXTINF:0 group-title="SPORT",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1 #EXTINF:0 group-title="SPORT",Fight Sports TV
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="News",Bloomberg
+http://210.210.155.35/uq2663/h/h03/index.m3u8
+
+#EXTINF:-1 group-title="News",Bloomberg
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+
+#EXTINF:-1 group-title="News",(DOUBTFUL) NHK World
+http://210.210.155.35/uq2663/h/h23/index1.m3u8
+
+#EXTINF:-1 group-title="News",NHK WORLD
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+
+#EXTINF:-1 group-title="News",UA TV
+http://210.210.155.35/qwr9ew/s/s47/index.m3u8
+
+#EXTINF:-1 group-title="News",Al Jazeera ENG
+http://210.210.155.35/session/f1a22d04-f3de-11e8-b90e-997d9209e1ea/qwr9ew/s/s17/01.m3u8
+
+#EXTINF:-1 group-title="News",RTP
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+
+#EXTINF:-1 group-title="News",DW TV
+http://210.210.155.35/session/de566102-7b7a-11e8-aa50-c81f66f89318/qwr9ew/s/s26/01.m3u8
+
+#EXTINF:-1 group-title="News",FRANCE24
+http://210.210.155.35/session/cb44f5f6-7b7a-11e8-8e98-c81f66f89318/qwr9ew/s/s22/01.m3u8
+
+#EXTINF:-1,PHOENIX
+http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
+
+#EXTINF:-1,RT
+http://210.210.155.35/session/efcc94f6-7b7a-11e8-afd3-b82a72d63267/qwr9ew/s/s23/01.m3u8
+
+#EXTINF:-1,CHANNEL NEWS ASIA
+http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
+
+#EXTINF:-1 group-title="News",CNA
+http://210.210.155.35/uq2663/h/h29/index.m3u8
+
+#EXTINF:-1 group-title="News",CNTV 2
+http://210.210.155.35/qwr9ew/s/s29/index.m3u8
+
+
+
+**** MOVIES ****
+
+#EXTINF:-1 group-title="Movies",CinemaWorld HD
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="Movies",CinemaWorld HD
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/02.m3u8
+
+#EXTINF:-1 group-title="Movies",CinemaWorld
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1 group-title="Movies",K-DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+
+#EXTINF:-1 group-title="Movies",K-DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/02.m3u8
+
+#EXTINF:-1 group-title="Movies",DIVA
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+
+#EXTINF:-1 group-title="Movies",SBS
+http://210.210.155.35/qwr9ew/s/s42/index.m3u8
+
+#EXTINF:-1 group-title="Movies",CELESTIAL MOVIES
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+
+#EXTINF:-1 group-title="Movies",CELESTIAL MOVIES
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 group-title="Movies",CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1,CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 group-title="Movies",THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 group-title="Movies",THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1group-title="Movies",ZEE BIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+
+#EXTINF:-1 group-title="Movies",ZEE Bioskop
+http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 group-title="Movies",ZEE BISOKOP
+http://210.210.155.35/session/dd44cb1a-3b40-11e9-a903-92a2ae097d68/qwr9ew/s/s32/index1.m3u8
+
+
+#EXTINF:-1 group-title="Movies",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 group-title="Movies", HITS
+http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/02.m3u8
+
+#EXTINF:-1,KIX
+http://210.210.155.35/uq2663/h/h07/index.m3u8
+
+#EXTINF:-1,KIX HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1,Kix
+http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
+
+
+
+
+**** KIDS ****
+
+#EXTINF:-1 group-title="Anak-anak",50
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+
+#EXTINF:-1 group-title="Anak-anak",AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="Anak-anak",AniMAX
+http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144/01.m3u8
+
+
+
+**** KNOWLIGE *****
+
+#EXTINF:-1 group-title="Knowlige",CGTN DOCUMENTARY
+http://210.210.155.35/session/ffc58ebe-0755-11e9-9443-c81f66f89318/qwr9ew/s/s20/02.m3u8
+
+#EXTINF:-1 group-title="Knowlige",CGTN DOCUMENTARY
+http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
+
+
+
+**** RELIGION *****
+
+#EXTINF:-1,ALQURANULKARIM
+http://210.210.155.35/session/dc5c3b00-7b7b-11e8-bf09-b82a72d63267/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1,AYSAR MEKKAH
+http://210.210.155.35/session/490cf076-0756-11e9-ac17-b82a72d63267/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1,AYSAR MADINA
+http://210.210.155.35/session/29a26522-0756-11e9-bf0a-b82a72d63267/qwr9ew/s/s27/02.m3u8
+
+
+#EXTINF:-1,TVE
+http://210.210.155.35/session/38ee33d8-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s25/01.m3u8
+
+#EXTINF:-1,E
+http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/01.m3u8
+
+#EXTINF:-1,E
+http://210.210.155.35/uq2663/h/h10/index.m3u8
