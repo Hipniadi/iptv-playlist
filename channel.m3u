@@ -81,9 +81,6 @@ http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomai
 #EXTINF:0 group-title="News",INEWS TV
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 group-title="SPORT",TVRI SPORTS HD
-http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
-
 
 #=================================================================== RELIGI ===================================================================#
 
