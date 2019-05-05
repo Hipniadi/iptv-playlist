@@ -1,4 +1,8 @@
 #EXTM3U
+
+
+#=================================================================== NASIONAL ===================================================================#
+
 #EXTINF:0 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Nasional",NET HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 #EXTINF:0 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="News",BERITA SATU HD
@@ -16,17 +20,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w359295960_b3
 #EXTINF:0 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Nasional", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 
-#EXTINF:0 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="News",METRO TV
-https://stream-01.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS1wVN139c5Xpakn8NbMIKaA)/dm/3/x75p70w/s/live-3.m3u8
 
 #EXTINF:-1 #EXTINF:0 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Nasional",ANTV
 http://210.210.155.35/session/7fd33922-46b1-11e9-b863-c81f66f89318/qwr9ew/s/s102/01.m3u8
 
 #EXTINF:0 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" group-title="News",TVRI HD
 https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
-
-
-#====TV NASIONAL===#
 
 #EXTINF:0 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Nasional", TRANS 7
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -58,13 +57,8 @@ http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Nasional",Indosiar
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 group-title="Nasional", NET TV
-http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 group-title="Lokal", MyTV
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-
-***** NEWS CHANNEL *****
+#===================================================================NEWS CHANNEL===================================================================#
 
 #EXTINF:0 group-title="News",TVRI
 http://rr2.dens.tv/s/s11/index.m3u8
@@ -90,7 +84,9 @@ http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=0
 #EXTINF:0 group-title="SPORT",TVRI SPORTS HD
 http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
 
-**** RELIGI *****
+
+#=================================================================== RELIGI ===================================================================#
+
 #EXTINF:0 tvg-id="" tvg-name="Akhyar TV" tvg-logo="http://www.akhyar.tv/wp-content/uploads/2017/07/Akhyartvbaru20175.png" group-title="Religi",Akhyar TV
 http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
 
@@ -106,7 +102,13 @@ http://rr2.dens.tv/s/s14/index.m3u8
 #EXTINF:0 group-title="Religi",TV9
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
-***** TV DAERAH *****
+#EXTINF:-1 group-title="Religi",AYSAR MEKKAH
+http://210.210.155.35/session/490cf076-0756-11e9-ac17-b82a72d63267/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1 group-title="Religi",AYSAR MADINA
+http://210.210.155.35/session/29a26522-0756-11e9-bf0a-b82a72d63267/qwr9ew/s/s27/02.m3u8
+
+#=================================================================== DAERAH ===================================================================#
 #EXTINF:0 tvg-id="" tvg-name="Bali TV" tvg-logo="" group-title="Lokal",BALI TV
 http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
@@ -129,10 +131,7 @@ http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 http://ss.bbstv.co.id:1935/bbstv/live1/chunklist_w1797668003.m3u8
 
 
-***** PREMIUM *****
-
-
-**** SPORTS ****
+#=================================================================== SPORT CHANNEL ===================================================================#
 
 #EXTINF:-1 group-title="SPORT",SuperSoccer TV
 http://210.210.155.35/uq2663/h/h20/index.m3u8
@@ -180,6 +179,7 @@ http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 
 
+#=================================================================== INTERNATIONAL NEWS ===================================================================#
 
 
 #EXTINF:-1 group-title="News",Bloomberg
@@ -224,9 +224,7 @@ http://210.210.155.35/uq2663/h/h29/index.m3u8
 #EXTINF:-1 group-title="News",CNTV 2
 http://210.210.155.35/qwr9ew/s/s29/index.m3u8
 
-
-
-**** MOVIES ****
+#=================================================================== MOVIES ===================================================================#
 
 #EXTINF:-1 group-title="Movies",CinemaWorld HD
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
@@ -293,22 +291,20 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
 
 
+#=================================================================== KIDS ===================================================================#
 
-
-**** KIDS ****
-
-#EXTINF:-1 group-title="Anak-anak",50
+#EXTINF:-1 group-title="KIDS",50
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
-#EXTINF:-1 group-title="Anak-anak",AniPlus
+#EXTINF:-1 group-title="KIDS",AniPlus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 group-title="Anak-anak",AniMAX
+#EXTINF:-1 group-title="KIDS",AniMAX
 http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144/01.m3u8
 
 
 
-**** KNOWLIGE *****
+#=================================================================== KNOWLIGE ===================================================================#
 
 #EXTINF:-1 group-title="Knowlige",CGTN DOCUMENTARY
 http://210.210.155.35/session/ffc58ebe-0755-11e9-9443-c81f66f89318/qwr9ew/s/s20/02.m3u8
@@ -316,25 +312,10 @@ http://210.210.155.35/session/ffc58ebe-0755-11e9-9443-c81f66f89318/qwr9ew/s/s20/
 #EXTINF:-1 group-title="Knowlige",CGTN DOCUMENTARY
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
 
+#=================================================================== NEWS & ENTERTAINMENT ===================================================================#
 
-
-**** RELIGION *****
-
-#EXTINF:-1,ALQURANULKARIM
-http://210.210.155.35/session/dc5c3b00-7b7b-11e8-bf09-b82a72d63267/qwr9ew/s/s28/01.m3u8
-
-#EXTINF:-1,AYSAR MEKKAH
-http://210.210.155.35/session/490cf076-0756-11e9-ac17-b82a72d63267/qwr9ew/s/s28/01.m3u8
-
-#EXTINF:-1,AYSAR MADINA
-http://210.210.155.35/session/29a26522-0756-11e9-bf0a-b82a72d63267/qwr9ew/s/s27/02.m3u8
-
-
-#EXTINF:-1,TVE
+#EXTINF:-1 group-title="News",TVE
 http://210.210.155.35/session/38ee33d8-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s25/01.m3u8
 
-#EXTINF:-1,E
-http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/01.m3u8
-
-#EXTINF:-1,E
+#EXTINF:-1 group-title="News",E
 http://210.210.155.35/uq2663/h/h10/index.m3u8
