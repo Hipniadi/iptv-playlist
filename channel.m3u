@@ -1,7 +1,6 @@
 #EXTM3U
 
-
-#=================================================================== NASIONAL ===================================================================#
+#============================================== NASIONAL ==============================================#
 
 #EXTINF:0 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Nasional",NET HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
@@ -20,7 +19,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w359295960_b3
 
 #EXTINF:0 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Nasional", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-
 
 #EXTINF:-1 #EXTINF:0 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Nasional",ANTV
 http://210.210.155.35/session/7fd33922-46b1-11e9-b863-c81f66f89318/qwr9ew/s/s102/01.m3u8
@@ -61,8 +59,16 @@ http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Nasional",Indosiar
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 group-title="Nasional",DAAI TV
+http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
 
-#===================================================================NEWS CHANNEL===================================================================#
+#EXTINF:0 group-title="Nasional", ELSHINTA TV
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:0 group-title="Nasional", BBS TV
+http://ss.bbstv.co.id:1935/bbstv/live1/chunklist_w1797668003.m3u8
+
+#============================================== NASIONAL-NEWS ==============================================#
 
 #EXTINF:0 group-title="News",TVRI
 http://rr2.dens.tv/s/s11/index.m3u8
@@ -85,8 +91,7 @@ http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomai
 #EXTINF:0 group-title="News",INEWS TV
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-
-#=================================================================== RELIGI ===================================================================#
+#============================================== MUSLIM CHANNEL ==============================================#
 
 #EXTINF:0 tvg-id="" tvg-name="Akhyar TV" tvg-logo="http://www.akhyar.tv/wp-content/uploads/2017/07/Akhyartvbaru20175.png" group-title="Religi",Akhyar TV
 http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
@@ -109,30 +114,21 @@ http://210.210.155.35/session/490cf076-0756-11e9-ac17-b82a72d63267/qwr9ew/s/s28/
 #EXTINF:-1 group-title="Religi",AYSAR MADINA
 http://210.210.155.35/session/29a26522-0756-11e9-bf0a-b82a72d63267/qwr9ew/s/s27/02.m3u8
 
-#=================================================================== DAERAH ===================================================================#
-#EXTINF:0 tvg-id="" tvg-name="Bali TV" tvg-logo="" group-title="Lokal",BALI TV
+#============================================== CHANNEL DAERAH ==============================================#
+
+#EXTINF:0 tvg-id="" tvg-name="Bali TV" tvg-logo="" group-title="Daerah",BALI TV
 http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 tvg-id="" tvg-name="JTV" tvg-logo="http://webtvonlive.com/wp-content/uploads/JTV-webtvonlive-com.jpg" group-title="Lokal",JTV
+#EXTINF:0 tvg-id="" tvg-name="JTV" tvg-logo="http://webtvonlive.com/wp-content/uploads/JTV-webtvonlive-com.jpg" group-title="Daerah",JTV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 group-title="Lokal", JAKTV
+#EXTINF:0 group-title="Daerah", JAKTV
 http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 group-title="Lokal", DAAI TV
-http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
+#============================================== SPORTS CHANNEL ==============================================#
 
-#EXTINF:-1 group-title="Lokal",DAAI TV
-http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
-
-#EXTINF:0 group-title="Lokal", ELSHINTA TV
-http://210.210.155.35/qwr9ew/s/s10/01.m3u8
-
-#EXTINF:0 group-title="Lokal", BBS TV
-http://ss.bbstv.co.id:1935/bbstv/live1/chunklist_w1797668003.m3u8
-
-
-#=================================================================== SPORT CHANNEL ===================================================================#
+#EXTINF:-1 #EXTINF:0 group-title="SPORT",Fight Sports TV
+http://210.210.155.35/uq2663/h/h05/index.m3u8
 
 #EXTINF:-1 group-title="SPORT",SuperSoccer TV
 http://210.210.155.35/uq2663/h/h20/index.m3u8
@@ -171,17 +167,7 @@ https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8?
 #EXTINF:0 group-title="SPORT", Olympic Chanel 12   TV
 https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8?
 
-
-#EXTINF:-1 #EXTINF:0 group-title="SPORT",Fight sport
-http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8
-#EXTINF:-1, #EXTINF:0 group-title="SPORT",Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1 #EXTINF:0 group-title="SPORT",Fight Sports TV
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-
-
-#=================================================================== INTERNATIONAL NEWS ===================================================================#
-
+#============================================== INTERNASIONAL-NEWS ==============================================#
 
 #EXTINF:-1 group-title="News",Bloomberg
 http://210.210.155.35/uq2663/h/h03/index.m3u8
@@ -210,13 +196,13 @@ http://210.210.155.35/session/de566102-7b7a-11e8-aa50-c81f66f89318/qwr9ew/s/s26/
 #EXTINF:-1 group-title="News",FRANCE24
 http://210.210.155.35/session/cb44f5f6-7b7a-11e8-8e98-c81f66f89318/qwr9ew/s/s22/01.m3u8
 
-#EXTINF:-1,PHOENIX
+#EXTINF:-1 group-title="News",PHOENIX
 http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
 
-#EXTINF:-1,RT
+#EXTINF:-1 group-title="News",RT
 http://210.210.155.35/session/efcc94f6-7b7a-11e8-afd3-b82a72d63267/qwr9ew/s/s23/01.m3u8
 
-#EXTINF:-1,CHANNEL NEWS ASIA
+#EXTINF:-1 group-title="News",CHANNEL NEWS ASIA
 http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
 
 #EXTINF:-1 group-title="News",CNA
@@ -225,7 +211,10 @@ http://210.210.155.35/uq2663/h/h29/index.m3u8
 #EXTINF:-1 group-title="News",CNTV 2
 http://210.210.155.35/qwr9ew/s/s29/index.m3u8
 
-#=================================================================== MOVIES ===================================================================#
+#EXTINF:-1 group-title="News",TVE
+http://210.210.155.35/session/38ee33d8-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s25/01.m3u8
+
+#============================================== MOVIES ==============================================#
 
 #EXTINF:-1 group-title="Movies",CinemaWorld HD
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
@@ -257,7 +246,7 @@ http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/
 #EXTINF:-1 group-title="Movies",CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 
-#EXTINF:-1,CELESTIAL MOVIES
+#EXTINF:-1 group-title="Movies",CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 group-title="Movies",THRILL
@@ -275,24 +264,22 @@ http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/
 #EXTINF:-1 group-title="Movies",ZEE BISOKOP
 http://210.210.155.35/session/dd44cb1a-3b40-11e9-a903-92a2ae097d68/qwr9ew/s/s32/index1.m3u8
 
-
 #EXTINF:-1 group-title="Movies",K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 group-title="Movies", HITS
 http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/02.m3u8
 
-#EXTINF:-1,KIX
+#EXTINF:-1 group-title="Movies",KIX
 http://210.210.155.35/uq2663/h/h07/index.m3u8
 
-#EXTINF:-1,KIX HD
+#EXTINF:-1 group-title="Movies",KIX HD
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 
-#EXTINF:-1,Kix
+#EXTINF:-1 group-title="Movies",Kix
 http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
 
-
-#=================================================================== KIDS ===================================================================#
+#============================================== KIDS ==============================================#
 
 #EXTINF:-1 group-title="KIDS",50
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
@@ -303,9 +290,7 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:-1 group-title="KIDS",AniMAX
 http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144/01.m3u8
 
-
-
-#=================================================================== KNOWLIGE ===================================================================#
+#============================================== KNOWLIGE ==============================================#
 
 #EXTINF:-1 group-title="Knowlige",CGTN DOCUMENTARY
 http://210.210.155.35/session/ffc58ebe-0755-11e9-9443-c81f66f89318/qwr9ew/s/s20/02.m3u8
@@ -313,10 +298,7 @@ http://210.210.155.35/session/ffc58ebe-0755-11e9-9443-c81f66f89318/qwr9ew/s/s20/
 #EXTINF:-1 group-title="Knowlige",CGTN DOCUMENTARY
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
 
-#=================================================================== NEWS & ENTERTAINMENT ===================================================================#
-
-#EXTINF:-1 group-title="News",TVE
-http://210.210.155.35/session/38ee33d8-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s25/01.m3u8
+#============================================== LIFESTLYE ==============================================#
 
 #EXTINF:-1 group-title="News",E
 http://210.210.155.35/uq2663/h/h10/index.m3u8
