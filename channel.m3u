@@ -16,7 +16,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w245350781_b3840
 #EXTINF:0 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w359295960_b384000_sleng.m3u8
 
-#EXTINF:0 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/62/Trans_TV_2013.svg" group-title="Nasional",TRANS TV
+#EXTINF:0 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/62/Trans_TV_2013.svg" group-title="Nasional",TRANS TV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 
 #EXTINF:0 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/62/Trans_TV_2013.svg" group-title="Nasional",TRANS TV 2
@@ -25,7 +25,7 @@ http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/62/Trans_TV_2013.svg" group-title="Nasional",TRANS TV 3
 http://rr2.dens.tv/s/s100/index.m3u8
 
-#EXTINF:0 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/79/Trans_7_2013.svg" group-title="Nasional", TRANS7
+#EXTINF:0 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/79/Trans_7_2013.svg" group-title="Nasional", TRANS7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 
 #EXTINF:0 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/79/Trans_7_2013.svg" group-title="Nasional", TRANS7 2
@@ -91,13 +91,11 @@ http://rr2.dens.tv/s/s12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif" group-title="Nasional",DAAI TV
 http://rr2.dens.tv/s/s13/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Nasional", LEJEL HOME SHOPING
-http://rr2.dens.tv/s/s42/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Nasional", METRO TIVU
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c1/LogoMetroTVsince2010.svg" group-title="Nasional", METRO TIVU
 http://rr2.dens.tv/s/s106/index.m3u8
 
-
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="" group-title="Nasional", LEJEL HOME SHOPING
+http://rr2.dens.tv/s/s42/index.m3u8
 
 #============================================== NASIONAL-NEWS ==============================================#
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?" group-title="News",BERITA SATU WORLD
@@ -115,16 +113,13 @@ http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" group-title="Nasional",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.satlogo.com/hires/jj/jakarta_globe_news_channel_id.png" group-title="News",JAKARTA GLOBE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static1.bigtvhd.com/uploads/bigtvhd/channel/jakarta_globe.png" group-title="News",JAKARTA GLOBE
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Nasional",RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #============================================== MUSLIM CHANNEL ==============================================#
-#EXTINF:-1 tvg-id="" tvg-name="INSAN TV" tvg-logo="http://www.imuslim.id/wp-content/uploads/2018/07/insantv.jpeg" group-title="Religi",INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="Akhyar TV" tvg-logo="http://www.akhyar.tv/wp-content/uploads/2017/07/Akhyartvbaru20175.png" group-title="Religi",Akhyar TV
 http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
 
