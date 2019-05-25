@@ -76,9 +76,6 @@ http://rr2.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="Nasional",TV ONE
 http://rr2.dens.tv/s/s105/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Nasional", METRO TIVU
-http://rr2.dens.tv/s/s106/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Nasional",INDOSIAR
 http://rr2.dens.tv/s/s04/index.m3u8
 
@@ -97,8 +94,10 @@ http://rr2.dens.tv/s/s13/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Nasional", LEJEL HOME SHOPING
 http://rr2.dens.tv/s/s42/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1Yr9nMG.png" group-title="Movies",J'go
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Nasional", METRO TIVU
+http://rr2.dens.tv/s/s106/index.m3u8
+
+
 
 #============================================== NASIONAL-NEWS ==============================================#
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?" group-title="News",BERITA SATU WORLD
@@ -116,7 +115,7 @@ http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" group-title="Nasional",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",JAKARTA GLOBE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.satlogo.com/hires/jj/jakarta_globe_news_channel_id.png" group-title="News",JAKARTA GLOBE
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Nasional",RRI Net
@@ -161,16 +160,16 @@ http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomai
 https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
 
 #============================================== SPORT CHANNEL ==============================================#
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/TVRI#/media/File:TVRILogo2019_OnAirScreen.svg" group-title="Sport", TVRI SPORT
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg" group-title="Sport", TVRI SPORT
 http://rr2.dens.tv/s/s107/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport", FIGHT
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.fightsports.tv/wp-content/uploads/LOGO_WHITE.png" group-title="Sport", FIGHT
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport", SUPER SOCCER
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn02.supersoccer.tv/h7wKytMQUuqbKT4AIDvW_channel-sstv.png" group-title="Sport", SUPER SOCCER
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport", EGG
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/808_300.png" group-title="Sport", EGG
 http://210.210.155.35/uq2663/h/h22/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport", MUTV
@@ -313,6 +312,9 @@ http://210.210.155.35/uq2663/h/h11/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", SINEMA INDONESIA
 http://210.210.155.35/x6bnqe/s/s71/index2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1Yr9nMG.png" group-title="Movies",J'go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
 
 #============================================== KIDS ==============================================#
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS", ANIPLUS
