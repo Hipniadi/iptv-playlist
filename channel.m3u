@@ -7,7 +7,7 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 #EXTINF:0 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="News",BERITA SATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-#EXTINF:0 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="News",CNN Indonesia
+#EXTINF:-1 tvg-id="CNIH" tvg-name="CNN Indonesia HD" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="News",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w245350781_b384000_sleng.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",CNBC Indonesia
@@ -33,7 +33,7 @@ http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-id="GTV.id" tvg-name="Global TV" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="Nasional",Global TV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 group-title="Nasional",GTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Global_TV_2008.png" group-title="Nasional",Global TV
 http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="Nasional",MNC TV
@@ -48,7 +48,7 @@ http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="Nasional",RTV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="Nasional",SCTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Nasional",SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Nasional",Indosiar
@@ -64,25 +64,26 @@ http://ss.bbstv.co.id:1935/bbstv/live1/chunklist_w1797668003.m3u8
 #EXTINF:0 group-title="Nasional", MyTV
 http://210.210.155.35/uq2663/h/h40/S4/mnf.m3u8
 
-#EXTINF:0 group-title="Nasional", TRANS TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-ntWIQ3h6jfY/VtxHKTuef4I/AAAAAAAAAEg/GHp3iYd9Bmw/s1600/TRANS_TV.png" group-title="Nasional",TRANS TV
 http://rr2.dens.tv/s/s100/index.m3u8
 
-#EXTINF:0 group-title="Nasional", TRANS 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="Nasional",TRANS 7
+
 http://rr2.dens.tv/s/s101/index.m3u8
 
-#EXTINF:0 group-title="Nasional", ANTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png" group-title="Nasional",ANTV
 http://rr2.dens.tv/s/s102/index.m3u8
 
 #EXTINF:0 group-title="Nasional", KOMPAS TV
 http://rr2.dens.tv/s/s104/index.m3u8
 
-#EXTINF:0 group-title="Nasional", TV ONE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="Nasional",TV ONE
 http://rr2.dens.tv/s/s105/index.m3u8
 
 #EXTINF:0 group-title="Nasional", METRO TIVU
 http://rr2.dens.tv/s/s106/index.m3u8
 
-#EXTINF:0 group-title="Nasional", INDOSIAR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Nasional",INDOSIAR
 http://rr2.dens.tv/s/s04/index.m3u8
 
 #EXTINF:0 group-title="Nasional", NET TV
@@ -94,14 +95,18 @@ http://rr2.dens.tv/s/s010/index.m3u8
 #EXTINF:0 group-title="Nasional", TVRI
 http://rr2.dens.tv/s/s11/index.m3u8
 
-#EXTINF:0 group-title="Nasional", RTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png" group-title="Nasional",RTV
 http://rr2.dens.tv/s/s12/index.m3u8
 
-#EXTINF:0 group-title="Nasional", DAAI TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif" group-title="Nasional",DAAI TV
 http://rr2.dens.tv/s/s13/index.m3u8
 
 #EXTINF:0 group-title="Nasional", LEJEL HOME SHOPING
 http://rr2.dens.tv/s/s42/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1Yr9nMG.png" group-title="Movies",J'go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+
 
 #============================================== NASIONAL-NEWS ==============================================#
 #EXTINF:0 group-title="News",BERITA SATU WORLD
@@ -110,13 +115,27 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 #EXTINF:0  tvg-id="TVOne.id" tvg-name="TV ONE" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="News", TV ONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 group-title="News",KOMPAS TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Newss",Kompas TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 group-title="News",INEWS TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" group-title="News",Inews
+
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" group-title="Nasional",Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Nasional",RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+
 #============================================== MUSLIM CHANNEL ==============================================#
+#EXTINF:-1 tvg-id="" tvg-name="INSAN TV" tvg-logo="http://www.imuslim.id/wp-content/uploads/2018/07/insantv.jpeg" group-title="Religi",INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="Akhyar TV" tvg-logo="http://www.akhyar.tv/wp-content/uploads/2017/07/Akhyartvbaru20175.png" group-title="Religi",Akhyar TV
 http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
 
@@ -139,7 +158,7 @@ http://rr2.dens.tv/s/s27/index.m3u8
 http://rr2.dens.tv/s/s28/index.m3u8
 
 #============================================== CHANNEL DAERAH ==============================================#
-#EXTINF:0 tvg-id="" tvg-name="Bali TV" tvg-logo="" group-title="Daerah",BALI TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Balitv_2002.png" group-title="Daerah",Bali TV
 http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-id="" tvg-name="JTV" tvg-logo="http://webtvonlive.com/wp-content/uploads/JTV-webtvonlive-com.jpg" group-title="Daerah",JTV
@@ -147,6 +166,9 @@ http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=0
 
 #EXTINF:0 group-title="Daerah", JAKTV
 http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Daerah",PADANG TV
+https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
 
 #============================================== SPORT CHANNEL ==============================================#
 #EXTINF:0 group-title="Sport", TVRI SPORT
@@ -294,10 +316,16 @@ http://210.210.155.35/dr9445/h/h144/index.m3u8
 #EXTINF:0 group-title="KIDS", KID
 http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/300px-Spacetoon.png" group-title="KIDS",Spacetoon Indonesia
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+
 #============================================== KNOWLIGE ==============================================#
 
 #EXTINF:0 group-title="Knowledge", CGTN
 http://210.210.155.35/qwr9ew/s/s20/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FMy8rhc.png" group-title="Knowledge",Foodie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?
 
 #============================================== ENTERTAINMENT & LIFESTLYE ==============================================#
 #EXTINF:0 group-title="Entertainment", AXN
@@ -317,3 +345,6 @@ http://210.210.155.35/dr9445/h/h16/index.m3u8
 
 #EXTINF:0 group-title="Entertainment", STLYE HD
 http://210.210.155.35/uq2663/h/h01/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CHOSUN" tvg-logo="Logo N/A" group-title="Entertainment",TV CHOSUN
+http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
