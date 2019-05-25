@@ -272,6 +272,15 @@ http://rr2.dens.tv/s/s29/index.m3u8
 #EXTINF:0 group-title="International", UA|TV
 http://210.210.155.35/qwr9ew/s/s47/index.m3u8
 
+#EXTINF:0 group-title="International", DUBAI
+http://210.210.155.35/x6bnqe/s/s60/index2.m3u8
+
+#EXTINF:0 group-title="International", TRT WORLD
+http://210.210.155.35/x6bnqe/s/s72/index2.m3u8
+
+#EXTINF:0 group-title="International", LUXE TV
+http://210.210.155.35/x6bnqe/s/s65/index2.m3u8
+
 #============================================== MOVIES ==============================================#
 #EXTINF:0 group-title="Movies", ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/index.m3u8
@@ -306,6 +315,12 @@ http://210.210.155.35/uq2663/h/h143/index.m3u8
 #EXTINF:0 group-title="Movies", BLUE ANT EXTREME
 http://210.210.155.35/dr9445/h/h15/index.m3u8
 
+#EXTINF:0 group-title="Movies", MY CINEMAS
+http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
+
+#EXTINF:0 group-title="Movies", SINEMA INDONESIA
+http://210.210.155.35/x6bnqe/s/s71/index2.m3u8
+
 #============================================== KIDS ==============================================#
 #EXTINF:0 group-title="KIDS", ANIPLUS
 http://210.210.155.35/dr9445/h/h02/index.m3u8
@@ -317,7 +332,11 @@ http://210.210.155.35/dr9445/h/h144/index.m3u8
 http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/300px-Spacetoon.png" group-title="KIDS",Spacetoon Indonesia
-http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+http://210.210.155.35/x6bnqe/s/s80/index.m3u8
+
+#EXTINF:0 group-title="KIDS", My KIDS
+http://210.210.155.35/x6bnqe/s/s113/index.m3u8
+
 
 #============================================== KNOWLIGE ==============================================#
 
@@ -348,3 +367,7 @@ http://210.210.155.35/uq2663/h/h01/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV CHOSUN" tvg-logo="Logo N/A" group-title="Entertainment",TV CHOSUN
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
+
+
+#EXTINF:0 group-title="Entertainment", CMUSIC
+http://210.210.155.35/x6bnqe/s/s64/index2.m3u8
