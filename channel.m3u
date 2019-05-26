@@ -355,3 +355,39 @@ http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", CMUSIC
 http://210.210.155.35/x6bnqe/s/s64/index2.m3u8
+
+#============================================== USEETV ==============================================#
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="UseeTV", Ruang Terampil
+https://cdnjt21.useetv.com/jhos/useeinfo_4/1558831134/playlist.m3u8?stime=20190526070000&etime=20190526090000&encoded=0bf10b3b5e7f1aaa2f443
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="UseeTV", Usee Foto
+https://cdnjt21.useetv.com/jhos/useephoto_4/1558831215/playlist.m3u8?stime=20190526070000&etime=20190526090000&encoded=0396900e769e2864a9aed
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="UseeTV", ANTV HD
+https://cdnjt21.useetv.com/jhos/antv_3/1558831307/playlist.m3u8?stime=20190526070000&etime=20190526090000&encoded=0451d802c9fc4adee2530
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="UseeTV", IDKU
+https://cdnjt13.useetv.com/jhos/idku_4/1558831336/playlist.m3u8?stime=20190526070000&etime=20190526090000&encoded=00194300d0b3fa780d1db
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="UseeTV", INDOSIAR
+https://cdnjt22.useetv.com/jhos/indosiar_3/1558831362/playlist.m3u8?stime=20190526070000&etime=20190526090000&encoded=0c2d1f74e0452c0d32173
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="UseeTV", JITV
+https://cdngb15.useetv.com/jhos/jitv/1558830796/playlist.m3u8?stime=20190526070000&etime=20190526090000&encoded=058753ab792aefe16a883
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="UseeTV", KOMPAS HD
+https://cdnjt12.useetv.com/jhos/kompastv_3/1558831435/playlist.m3u8?stime=20190526070000&etime=20190526090000&encoded=092ef75aa4b15f3ce61aa
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="UseeTV", BEIN 1
+https://cdnjt12.useetv.com/jhos/beib1_4/1558831516/playlist.m3u8?stime=20190526070000&etime=20190526090000&encoded=0228d8de881b30dad0704
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="UseeTV", BEIN 2
+https://cdnjt13.useetv.com/jhos/beib2_4/1558831563/playlist.m3u8?stime=20190526070000&etime=20190526090000&encoded=07de76adf7c2f5fe53140
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="UseeTV", BEIN 3
+https://cdnjt21.useetv.com/jhos/beib3_4/1558831587/playlist.m3u8?stime=20190526070000&etime=20190526090000&encoded=0148a225881a5a60e5019
+
+
+
+
+
+
+
