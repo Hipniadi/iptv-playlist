@@ -1,38 +1,21 @@
 #EXTM3U
 
 #============================================== NASIONAL ==============================================#
-#EXTINF:0 tvg-id="NetTV.id" tvg-name="NET TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="Nasional",NET HD
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w54748964_b744100_sleng.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="Nasional", NET TV
+#EXTINF:0 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="Nasional",NET TV
 http://rr2.dens.tv/s/s08/index.m3u8
+
+#EXTINF:0 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="Nasional",NET TV
+https://youtu.be/50DdLu8pOv0
 
 #EXTINF:0 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="News",BERITA SATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNIH" tvg-name="CNN Indonesia HD" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="News",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1962926250_b384000_sleng.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w359295960_b384000_sleng.m3u8
-
-#EXTINF:0 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/62/Trans_TV_2013.svg" group-title="Nasional",TRANS TV HD
+#EXTINF:0 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/62/Trans_TV_2013.svg" group-title="Nasional",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 
-#EXTINF:0 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/62/Trans_TV_2013.svg" group-title="Nasional",TRANS TV 2
-http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/62/Trans_TV_2013.svg" group-title="Nasional",TRANS TV 3
-http://rr2.dens.tv/s/s100/index.m3u8
-
-#EXTINF:0 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/79/Trans_7_2013.svg" group-title="Nasional", TRANS7 HD
+#EXTINF:0 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/79/Trans_7_2013.svg" group-title="Nasional", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-
-#EXTINF:0 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/79/Trans_7_2013.svg" group-title="Nasional", TRANS7 2
-http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/79/Trans_7_2013.svg" group-title="Nasional",TRANS7 3
-http://rr2.dens.tv/s/s101/index.m3u8
 
 #EXTINF:0 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="Nasional",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -46,9 +29,6 @@ http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/dd/RCTI_logo_2015.svg" group-title="Nasional",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/dd/RCTI_logo_2015.svg" group-title="Nasional",RCTI 2
-http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:0 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5a/Rajawali_Televisi.svg" group-title="Nasional",RTV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -58,46 +38,27 @@ http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" group-title="Nasional",Indosiar
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="News",TVRI HD
-https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/BBSTV_%28September_2017%29.png" group-title="Nasional", BBS TV
 http://ss.bbstv.co.id:1935/bbstv/live1/chunklist_w1797668003.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/23/Mayapada_TV.png" group-title="Nasional", MyTV
 http://210.210.155.35/uq2663/h/h40/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png" group-title="Nasional",ANTV
-http://rr2.dens.tv/s/s102/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png" group-title="Nasional", KOMPAS TV
-http://rr2.dens.tv/s/s104/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="Nasional",TV ONE
-http://rr2.dens.tv/s/s105/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Nasional",INDOSIAR
-http://rr2.dens.tv/s/s04/index.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3f/Elshinta_tv_logo.jpg" group-title="Nasional", ELSHINTA
 http://rr2.dens.tv/s/s010/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg" group-title="Nasional", TVRI
-http://rr2.dens.tv/s/s11/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5a/Rajawali_Televisi.svg" group-title="Nasional",RTV
-http://rr2.dens.tv/s/s12/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif" group-title="Nasional",DAAI TV
 http://rr2.dens.tv/s/s13/index.m3u8
 
-#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c1/LogoMetroTVsince2010.svg" group-title="Nasional", METRO TIVU
-http://rr2.dens.tv/s/s106/index.m3u8
-
-#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="" group-title="Nasional", LEJEL HOME SHOPING
-http://rr2.dens.tv/s/s42/index.m3u8
 
 #============================================== NASIONAL-NEWS ==============================================#
+
+#EXTINF:-1 tvg-id="CNIH" tvg-name="CNN Indonesia HD" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1962926250_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w359295960_b384000_sleng.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?" group-title="News",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
@@ -110,8 +71,6 @@ http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" group-title="News",Inews
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" group-title="Nasional",Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static1.bigtvhd.com/uploads/bigtvhd/channel/jakarta_globe.png" group-title="News",JAKARTA GLOBE
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
@@ -119,239 +78,5 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Nasional",RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
-#============================================== MUSLIM CHANNEL ==============================================#
-#EXTINF:0 tvg-id="" tvg-name="Akhyar TV" tvg-logo="http://www.akhyar.tv/wp-content/uploads/2017/07/Akhyartvbaru20175.png" group-title="Religi",Akhyar TV
-http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Religi", Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Asjawa TV" tvg-logo="" group-title="Religi",ASWAJA TV
-http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Religi",TV9
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Religi", RODJA TV
-http://rr2.dens.tv/s/s14/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Religi", MADINA
-http://rr2.dens.tv/s/s27/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Religi", MECCA
-http://rr2.dens.tv/s/s28/index.m3u8
-
-#============================================== CHANNEL DAERAH ==============================================#
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Balitv_2002.png" group-title="Daerah",Bali TV
-http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:0 tvg-id="" tvg-name="JTV" tvg-logo="http://webtvonlive.com/wp-content/uploads/JTV-webtvonlive-com.jpg" group-title="Daerah",JTV
-http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:0 group-title="Daerah", JAKTV
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Daerah",PADANG TV
-https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
-
-#============================================== SPORT CHANNEL ==============================================#
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg" group-title="Sport", TVRI SPORT
-http://rr2.dens.tv/s/s107/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.fightsports.tv/wp-content/uploads/LOGO_WHITE.png" group-title="Sport", FIGHT
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn02.supersoccer.tv/h7wKytMQUuqbKT4AIDvW_channel-sstv.png" group-title="Sport", SUPER SOCCER
-http://210.210.155.35/uq2663/h/h20/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/808_300.png" group-title="Sport", EGG
-http://210.210.155.35/uq2663/h/h22/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport", MUTV
-https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/04.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport", Chelsea TV
-https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/04.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport", Real Madrid   TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport", Olympic Channel 1 TV
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport", Olympic Channel 2 TV
-https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport", Olympic Channel 3 TV
-https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport", Olympic Channel 4 TV
-https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport", Olympic Channel 5 TV
-https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport", Olympic Channel 6 TV
-https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport", Olympic Channel 7 TV
-https://ott-live.olympicchannel.com/out/u/OC7_1.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport", Olympic Channel 8 TV
-https://ott-live.olympicchannel.com/out/u/OC8_1.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport", Olympic Channel 9 TV
-https://ott-live.olympicchannel.com/out/u/OC9_1.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport", Olympic Channel 10 TV
-https://ott-live.olympicchannel.com/out/u/OC10_1.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport", Olympic Channel 11 TV
-https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport", Olympic Channel 12 TV
-https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8?
-
-#============================================== INTERNASIONAL-NEWS ==============================================#
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", NHK WORLD
-http://210.210.155.35/uq2663/h/h23/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", A-CNA
-http://210.210.155.35/uq2663/h/h29/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", BLOMBERG
-http://210.210.155.35/uq2663/h/h03/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", UERONEWS
-http://rr2.dens.tv/s/s15/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", AL JAZEERA ARAB
-http://rr2.dens.tv/s/s16/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", AL JAZEERA ENG
-http://rr2.dens.tv/s/s17/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", CCTV 4
-http://rr2.dens.tv/s/s19/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", CHINA
-http://rr2.dens.tv/s/s21/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", FRANCE 24
-http://rr2.dens.tv/s/s22/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", RUSIAN TODAY TV
-http://rr2.dens.tv/s/s23/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", TV5 MONDE
-http://rr2.dens.tv/s/s24/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", TVE
-http://rr2.dens.tv/s/s25/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", DW
-http://rr2.dens.tv/s/s26/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", RTV
-http://rr2.dens.tv/s/s38/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", TBN ASIA
-http://rr2.dens.tv/s/s39/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", CHINA KIDS
-http://rr2.dens.tv/s/s50/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", CHINA
-http://rr2.dens.tv/s/s29/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", UA|TV
-http://210.210.155.35/qwr9ew/s/s47/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", DUBAI
-http://210.210.155.35/x6bnqe/s/s60/index2.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", TRT WORLD
-http://210.210.155.35/x6bnqe/s/s72/index2.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="International", LUXE TV
-http://210.210.155.35/x6bnqe/s/s65/index2.m3u8
-
-#============================================== MOVIES ==============================================#
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", Calestial Movies
-http://rr2.dens.tv/s/s33/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", Thrill
-http://rr2.dens.tv/s/s34/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", CINEMA WORLD
-http://210.210.155.35/uq2663/h/h04/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", KIX
-http://210.210.155.35/uq2663/h/h07/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", S GEM
-http://210.210.155.35/uq2663/h/h19/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", HITS
-http://210.210.155.35/uq2663/h/h37/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", SONY CHANNEL
-http://210.210.155.35/uq2663/h/h142/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", SONY ONE 
-http://210.210.155.35/uq2663/h/h143/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", BLUE ANT EXTREME
-http://210.210.155.35/dr9445/h/h15/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", MY CINEMAS
-http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",DIVA
-http://210.210.155.35/uq2663/h/h11/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", SINEMA INDONESIA
-http://210.210.155.35/x6bnqe/s/s71/index2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1Yr9nMG.png" group-title="Movies",J'go
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
-
-#============================================== KIDS ==============================================#
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS", ANIPLUS
-http://210.210.155.35/dr9445/h/h02/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS", ANIMAX
-http://210.210.155.35/dr9445/h/h144/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS", KID
-http://210.210.155.35/qwr9ew/s/s50/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/300px-Spacetoon.png" group-title="KIDS",Spacetoon Indonesia
-http://210.210.155.35/x6bnqe/s/s80/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS", My KIDS
-http://210.210.155.35/x6bnqe/s/s113/index.m3u8
-
-#============================================== KNOWLIGE ==============================================#
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Knowledge", CGTN
-http://210.210.155.35/qwr9ew/s/s20/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FMy8rhc.png" group-title="Knowledge",Foodie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?
-
-#============================================== ENTERTAINMENT & LIFESTLYE ==============================================#
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", AXN
-http://210.210.155.35/uq2663/h/h141/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", DENS LIFESTLYE
-http://210.210.155.35/uq2663/h/h999/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", E
-http://210.210.155.35/uq2663/h/h10/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", BLUE ANT Entertainment
-http://210.210.155.35/dr9445/h/h16/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", STLYE HD
-http://210.210.155.35/uq2663/h/h01/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV CHOSUN" tvg-logo="Logo N/A" group-title="Entertainment",TV CHOSUN
-http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", CMUSIC
-http://210.210.155.35/x6bnqe/s/s64/index2.m3u8
+#EXTINF:0 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="News",TVRI HD
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
