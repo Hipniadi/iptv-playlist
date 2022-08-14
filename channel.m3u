@@ -1,5 +1,4 @@
 #EXTM3U
-
 #============================================== NASIONAL ==============================================#
 
 #EXTINF:0 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="Nasional",NET TV
@@ -7,7 +6,6 @@ http://rr2.dens.tv/s/s08/index.m3u8
 
 #EXTINF:0 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="Nasional",NET TV
 https://youtu.be/50DdLu8pOv0
-
 
 #EXTINF:0 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/62/Trans_TV_2013.svg" group-title="Nasional",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
